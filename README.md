@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hannan Shaikh
-- 👀 I share my interest in Data Strutures and Algorithms
+- 👀 I share my interest in (Still looking for something better)
 - 🌱 I’m currently learning Java, JavaScript, HTML, CSS, React.js, C etc
 - 📫 Well for now I'm by Myself.....But maybe soon :)
 
